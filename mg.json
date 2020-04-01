@@ -1,0 +1,34 @@
+{"1":{"data_dict": //登录签到提交数据
+{"country":"中国", 
+"province":"山东省",
+"city":"烟台市",
+"device":"Android",
+"address":"山东·烟台·新思维学校", //详细地址
+"description":"",
+"longitude":"121.528387", //经纬度
+"latitude":"37.429868",//经纬度
+"planId":"", //提交ID
+"type":"START" //登录体提交信息
+},
+"login_data":{
+"phone":"", //账号
+"password":"", //密码
+"uuid":"",
+"loginType":"android"
+}},"2":
+{"data_dict":
+{"country":"中国",
+"province":"山东省",
+"city":"烟台市",
+"device":"Android",
+"address":"山东·烟台·新思维学校",
+"description":"",
+"longitude":"121.528387",
+"latitude":"37.429868",
+"planId":"",//提交ID
+"type":"END"   //退出提交
+},"login_data":
+{"phone":"",//账号
+"password":"",//密码
+"uuid":"",
+"loginType":"android"}}}
